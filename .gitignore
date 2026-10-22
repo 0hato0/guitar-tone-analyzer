@@ -1,0 +1,20 @@
+# 音源は著作物なので絶対に入れない（各自で用意する）
+*.wav
+*.mp3
+*.flac
+*.aif
+*.aiff
+*.ogg
+*.m4a
+*.aac
+*.wma
+*.opus
+*.zip
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# tools/make_test_song.py で作る試験曲
+songs/テスト曲/
